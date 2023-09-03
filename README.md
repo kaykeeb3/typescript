@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight:100;">Estudos com Typescript </h1>
 
-<p align="center" style="font-weight: 100; color: #F2F2F2">Repositório destinados a estudos com a linguagem de Progamação <strong>Typescript</strong></p>
+<p align="center" style="font-weight: 100; color: #F2F2F2">Repositório destinado a estudos com a linguagem de Progamação <strong>Typescript</strong></p>
 
 <br>
 
