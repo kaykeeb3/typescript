@@ -1,18 +1,21 @@
-<h1 align="center" style="font-weight:100;">Estudos com Typescript </h1>
 
-<p align="center" style="font-weight: 100; color: #F2F2F2">Repositório destinado a estudos com a linguagem de Progamação <strong>Typescript</strong></p>
+<h1 align="center">Estudos com TypeScript</h1>
+
+<p align="center"><em>Repositório dedicado aos estudos da linguagem de programação TypeScript.</em></p>
 
 <br>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias Utilizadas
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-## ⚙ BACK-END & LÓGICA 
-- Typescript 
-- Git & Github
+### Backend e Lógica
 
-## 📚 ALGORITMOS & MÉTODOS
+- TypeScript
+- Git & GitHub
+
+### Algoritmos e Métodos
+
 - Variáveis e Tipos de Dados
 - Arrays
 - Objetos
@@ -30,12 +33,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Tipagem Null e Undefined
 - Operadores Lógicos
 - Template Strings
-- Operator
+- Operador Spread
 - Destructuring
 - Tipos Enum
-<br>
 
-## 💻 Projeto
+## 💻 Sobre o Projeto
 
-<p style="font-weight: 100; color: #F2F2F2">O intuito desse repositório é treinar os conhecimentos técnico em programação com a linguagem <strong style="font-weight: 100;"><span style="color: #1AA; font-weight: 100;">Typescript</span> abrangendo os conhecimentos em <strong style="font-weight: 400;">Lógica & Programação</strong></p>
+O objetivo deste repositório é aprimorar o conhecimento técnico em programação, focando na linguagem TypeScript e abrangendo conceitos de lógica de programação.
 
+</p>
