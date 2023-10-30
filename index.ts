@@ -78,6 +78,7 @@ let valorNulo: null = null;
 let valorIndefinido: undefined = undefined;
 
 // 16. Operadores Lógicos
+let idade: number = 20; // Defina a idade aqui
 const ehMaiorDeIdade = idade >= 18 && idade <= 65;
 
 // 17. Template Strings
@@ -104,4 +105,3 @@ enum DiaDaSemana {
 
 const diaAtual: DiaDaSemana = DiaDaSemana.Quarta;
 console.log(`Hoje é ${DiaDaSemana[diaAtual]}`);
-               
