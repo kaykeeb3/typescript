@@ -1,6 +1,6 @@
 <h1 align="center">Estudos com TypeScript 🚀</h1>
 
-<p align="center"><em>Repositório dedicado aos estudos avançados da linguagem de programação TypeScript.</em></p>
+<p align="center"><em>Repositório dedicado aos estudos avançados da linguagem de programação Typescript</em></p>
 
 <br>
 
